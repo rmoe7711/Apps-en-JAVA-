@@ -1,0 +1,15 @@
+El nombre es:  caolina Arreaza
+ La edad es:  32
+ el grado es:  maestria
+El nombre es:  kevin 
+ La edad es:  33
+ el grado es:  maestria
+El nombre es:  ronakd
+ La edad es:  23
+ el grado es:  123
+El nombre es:  
+ La edad es:  
+ el grado es:  
+El nombre es:  
+ La edad es:  
+ el grado es:  
